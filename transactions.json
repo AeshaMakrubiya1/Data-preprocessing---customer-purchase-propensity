@@ -1,0 +1,3306 @@
+[
+  {
+    "customer_id": "C0001",
+    "product_id": "P049",
+    "amount": 1208.18,
+    "date": "2023-08-08",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0002",
+    "product_id": "P043",
+    "amount": 1410.49,
+    "date": "2023-04-03",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0002",
+    "product_id": "P022",
+    "amount": 988.89,
+    "date": "2023-03-15",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0002",
+    "product_id": "P005",
+    "amount": 3202.54,
+    "date": "2023-01-16",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0003",
+    "product_id": "P027",
+    "amount": 871.31,
+    "date": "2023-06-09",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0003",
+    "product_id": "P004",
+    "amount": 3796.74,
+    "date": "2023-01-26",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0004",
+    "product_id": "P043",
+    "amount": 3074.67,
+    "date": "2023-08-01",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0004",
+    "product_id": "P049",
+    "amount": 1791.35,
+    "date": "2023-02-26",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0005",
+    "product_id": "P043",
+    "amount": 1180.54,
+    "date": "2023-11-03",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0005",
+    "product_id": "P014",
+    "amount": 1135.05,
+    "date": "2023-03-12",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0005",
+    "product_id": "P021",
+    "amount": 2537.19,
+    "date": "2023-08-09",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0006",
+    "product_id": "P035",
+    "amount": 2551.29,
+    "date": "2024-03-02",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0006",
+    "product_id": "P026",
+    "amount": 307.28,
+    "date": "2023-01-10",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0007",
+    "product_id": "P037",
+    "amount": 2081.67,
+    "date": "2023-11-24",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0007",
+    "product_id": "P008",
+    "amount": 4834.38,
+    "date": "2023-03-29",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0008",
+    "product_id": "P024",
+    "amount": 4237.97,
+    "date": "2023-05-05",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0008",
+    "product_id": "P034",
+    "amount": 4365.57,
+    "date": "2024-01-17",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0008",
+    "product_id": "P022",
+    "amount": 474.26,
+    "date": "2023-11-21",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0009",
+    "product_id": "P023",
+    "amount": 4112.85,
+    "date": "2024-02-22",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0009",
+    "product_id": "P007",
+    "amount": 1066.63,
+    "date": "2023-11-05",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0010",
+    "product_id": "P050",
+    "amount": 2373.37,
+    "date": "2023-10-16",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0011",
+    "product_id": "P037",
+    "amount": 4934.01,
+    "date": "2023-06-15",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0011",
+    "product_id": "P029",
+    "amount": 2266.82,
+    "date": "2023-06-05",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0011",
+    "product_id": "P023",
+    "amount": 1621.0,
+    "date": "2023-08-20",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0012",
+    "product_id": "P019",
+    "amount": 4334.83,
+    "date": "2024-03-13",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0012",
+    "product_id": "P030",
+    "amount": 4775.73,
+    "date": "2024-01-14",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0013",
+    "product_id": "P042",
+    "amount": 3064.53,
+    "date": "2023-09-14",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0013",
+    "product_id": "P029",
+    "amount": 4505.72,
+    "date": "2023-06-25",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0013",
+    "product_id": "P003",
+    "amount": 2245.02,
+    "date": "2023-08-13",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0014",
+    "product_id": "P024",
+    "amount": 1998.34,
+    "date": "2024-02-01",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0014",
+    "product_id": "P041",
+    "amount": 422.97,
+    "date": "2023-02-18",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0015",
+    "product_id": "P017",
+    "amount": 3317.16,
+    "date": "2024-04-09",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0015",
+    "product_id": "P022",
+    "amount": 3351.7,
+    "date": "2024-04-14",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0016",
+    "product_id": "P045",
+    "amount": 731.86,
+    "date": "2023-12-29",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0016",
+    "product_id": "P036",
+    "amount": 3979.14,
+    "date": "2024-02-21",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0016",
+    "product_id": "P042",
+    "amount": 2591.59,
+    "date": "2023-01-10",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0017",
+    "product_id": "P014",
+    "amount": 3854.17,
+    "date": "2023-04-09",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0018",
+    "product_id": "P005",
+    "amount": 3961.79,
+    "date": "2023-09-17",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0019",
+    "product_id": "P022",
+    "amount": 3128.35,
+    "date": "2023-11-02",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0019",
+    "product_id": "P011",
+    "amount": 3494.94,
+    "date": "2023-11-16",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0019",
+    "product_id": "P003",
+    "amount": 3414.18,
+    "date": "2023-05-02",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0020",
+    "product_id": "P029",
+    "amount": 1271.93,
+    "date": "2024-05-09",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0020",
+    "product_id": "P024",
+    "amount": 2895.06,
+    "date": "2023-08-14",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0020",
+    "product_id": "P050",
+    "amount": 2684.55,
+    "date": "2024-05-09",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0021",
+    "product_id": "P009",
+    "amount": 355.68,
+    "date": "2023-09-04",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0021",
+    "product_id": "P046",
+    "amount": 4270.71,
+    "date": "2023-05-26",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0021",
+    "product_id": "P018",
+    "amount": 2615.43,
+    "date": "2024-03-01",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0022",
+    "product_id": "P029",
+    "amount": 4659.31,
+    "date": "2023-08-01",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0023",
+    "product_id": "P024",
+    "amount": 4973.17,
+    "date": "2023-07-11",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0023",
+    "product_id": "P021",
+    "amount": 4211.96,
+    "date": "2023-11-29",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0023",
+    "product_id": "P009",
+    "amount": 4595.24,
+    "date": "2023-08-30",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0024",
+    "product_id": "P040",
+    "amount": 22376.77,
+    "date": "2023-05-12",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0024",
+    "product_id": "P036",
+    "amount": 3083.51,
+    "date": "2023-08-05",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0025",
+    "product_id": "P020",
+    "amount": 1268.35,
+    "date": "2023-11-24",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0026",
+    "product_id": "P008",
+    "amount": 2549.16,
+    "date": "2023-10-02",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0027",
+    "product_id": "P010",
+    "amount": 107.67,
+    "date": "2023-06-30",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0027",
+    "product_id": "P012",
+    "amount": 519.51,
+    "date": "2024-05-14",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0027",
+    "product_id": "P034",
+    "amount": 3953.42,
+    "date": "2023-09-17",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0028",
+    "product_id": "P031",
+    "amount": 1995.72,
+    "date": "2023-07-11",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0028",
+    "product_id": "P023",
+    "amount": 1789.53,
+    "date": "2024-01-11",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0029",
+    "product_id": "P003",
+    "amount": 1758.88,
+    "date": "2023-11-26",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0030",
+    "product_id": "P031",
+    "amount": 4076.34,
+    "date": "2023-02-02",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0030",
+    "product_id": "P019",
+    "amount": 3976.44,
+    "date": "2024-03-29",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0030",
+    "product_id": "P020",
+    "amount": 4946.7,
+    "date": "2023-10-06",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0031",
+    "product_id": "P049",
+    "amount": 1501.94,
+    "date": "2024-03-17",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0032",
+    "product_id": "P008",
+    "amount": 2241.06,
+    "date": "2023-07-24",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0032",
+    "product_id": "P022",
+    "amount": 2531.4,
+    "date": "2023-09-12",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0033",
+    "product_id": "P047",
+    "amount": 2209.98,
+    "date": "2024-02-26",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0034",
+    "product_id": "P007",
+    "amount": 3338.5,
+    "date": "2023-06-06",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0034",
+    "product_id": "P011",
+    "amount": 1822.58,
+    "date": "2023-01-22",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0035",
+    "product_id": "P041",
+    "amount": 4744.73,
+    "date": "2023-02-08",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0035",
+    "product_id": "P033",
+    "amount": 3429.11,
+    "date": "2024-05-02",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0036",
+    "product_id": "P044",
+    "amount": 270.51,
+    "date": "2023-02-04",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0036",
+    "product_id": "P024",
+    "amount": 2879.5,
+    "date": "2023-11-06",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0036",
+    "product_id": "P024",
+    "amount": 3839.11,
+    "date": "2023-10-21",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0037",
+    "product_id": "P021",
+    "amount": 1323.1,
+    "date": "2023-02-28",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0037",
+    "product_id": "P032",
+    "amount": 4576.36,
+    "date": "2023-03-02",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0038",
+    "product_id": "P029",
+    "amount": 3098.2,
+    "date": "2023-12-22",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0038",
+    "product_id": "P008",
+    "amount": 462.85,
+    "date": "2023-03-30",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0038",
+    "product_id": "P044",
+    "amount": 4934.22,
+    "date": "2023-12-08",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0039",
+    "product_id": "P035",
+    "amount": 1569.79,
+    "date": "2023-03-22",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0039",
+    "product_id": "P033",
+    "amount": 4927.15,
+    "date": "2024-02-10",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0039",
+    "product_id": "P032",
+    "amount": 2814.71,
+    "date": "2023-07-08",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0040",
+    "product_id": "P006",
+    "amount": 2050.98,
+    "date": "2024-01-03",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0040",
+    "product_id": "P050",
+    "amount": 2917.01,
+    "date": "2023-03-06",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0040",
+    "product_id": "P029",
+    "amount": 2635.06,
+    "date": "2023-03-07",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0041",
+    "product_id": "P028",
+    "amount": 4354.24,
+    "date": "2024-03-01",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0042",
+    "product_id": "P011",
+    "amount": 4680.22,
+    "date": "2023-04-26",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0042",
+    "product_id": "P006",
+    "amount": 3211.78,
+    "date": "2023-10-10",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0043",
+    "product_id": "P020",
+    "amount": 557.8,
+    "date": "2023-11-25",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0043",
+    "product_id": "P011",
+    "amount": 3631.1,
+    "date": "2023-11-06",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0043",
+    "product_id": "P002",
+    "amount": 4747.88,
+    "date": "2024-01-30",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0044",
+    "product_id": "P014",
+    "amount": 2141.28,
+    "date": "2023-11-24",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0044",
+    "product_id": "P041",
+    "amount": 3245.35,
+    "date": "2023-06-04",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0044",
+    "product_id": "P044",
+    "amount": 2322.37,
+    "date": "2023-12-19",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0045",
+    "product_id": "P027",
+    "amount": 1099.71,
+    "date": "2023-11-07",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0045",
+    "product_id": "P046",
+    "amount": 4941.31,
+    "date": "2023-06-26",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0046",
+    "product_id": "P033",
+    "amount": 1663.67,
+    "date": "2023-08-27",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0046",
+    "product_id": "P029",
+    "amount": 574.38,
+    "date": "2023-05-29",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0047",
+    "product_id": "P011",
+    "amount": 4675.38,
+    "date": "2024-01-05",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0048",
+    "product_id": "P032",
+    "amount": 2387.39,
+    "date": "2024-03-26",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0049",
+    "product_id": "P006",
+    "amount": 2576.68,
+    "date": "2024-05-09",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0050",
+    "product_id": "P023",
+    "amount": 1478.65,
+    "date": "2023-11-02",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0050",
+    "product_id": "P035",
+    "amount": 23224.91,
+    "date": "2023-03-10",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0050",
+    "product_id": "P049",
+    "amount": 321.69,
+    "date": "2023-01-27",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0051",
+    "product_id": "P036",
+    "amount": 1993.11,
+    "date": "2023-08-19",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0051",
+    "product_id": "P040",
+    "amount": 682.17,
+    "date": "2024-05-14",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0052",
+    "product_id": "P022",
+    "amount": 1891.47,
+    "date": "2023-03-15",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0052",
+    "product_id": "P033",
+    "amount": 290.68,
+    "date": "2024-01-01",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0053",
+    "product_id": "P030",
+    "amount": 4476.35,
+    "date": "2023-03-13",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0053",
+    "product_id": "P011",
+    "amount": 3120.85,
+    "date": "2024-03-07",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0053",
+    "product_id": "P033",
+    "amount": 2708.47,
+    "date": "2023-12-29",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0054",
+    "product_id": "P002",
+    "amount": 3401.65,
+    "date": "2023-08-02",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0054",
+    "product_id": "P047",
+    "amount": 3183.38,
+    "date": "2023-11-02",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0055",
+    "product_id": "P050",
+    "amount": 1214.96,
+    "date": "2023-01-27",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0055",
+    "product_id": "P011",
+    "amount": 3633.8,
+    "date": "2024-02-01",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0055",
+    "product_id": "P044",
+    "amount": 2905.59,
+    "date": "2023-12-25",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0056",
+    "product_id": "P029",
+    "amount": 842.01,
+    "date": "2023-12-20",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0057",
+    "product_id": "P050",
+    "amount": 2410.87,
+    "date": "2024-03-10",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0057",
+    "product_id": "P034",
+    "amount": 1692.74,
+    "date": "2023-12-06",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0057",
+    "product_id": "P021",
+    "amount": 2352.35,
+    "date": "2023-09-30",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0058",
+    "product_id": "P050",
+    "amount": 3435.65,
+    "date": "2024-02-16",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0058",
+    "product_id": "P013",
+    "amount": 1467.13,
+    "date": "2023-06-02",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0058",
+    "product_id": "P050",
+    "amount": 1115.66,
+    "date": "2023-12-27",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0059",
+    "product_id": "P023",
+    "amount": 4678.98,
+    "date": "2024-01-05",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0059",
+    "product_id": "P008",
+    "amount": 2761.64,
+    "date": "2024-04-03",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0060",
+    "product_id": "P019",
+    "amount": 4781.04,
+    "date": "2023-02-10",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0061",
+    "product_id": "P017",
+    "amount": 1148.54,
+    "date": "2024-02-28",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0061",
+    "product_id": "P036",
+    "amount": 772.64,
+    "date": "2023-11-12",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0061",
+    "product_id": "P016",
+    "amount": 4535.4,
+    "date": "2023-04-26",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0062",
+    "product_id": "P027",
+    "amount": 2414.78,
+    "date": "2023-12-15",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0063",
+    "product_id": "P011",
+    "amount": 4681.66,
+    "date": "2024-03-25",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0063",
+    "product_id": "P042",
+    "amount": 4823.18,
+    "date": "2023-06-14",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0063",
+    "product_id": "P050",
+    "amount": 2913.25,
+    "date": "2023-10-01",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0064",
+    "product_id": "P012",
+    "amount": 278.07,
+    "date": "2024-03-04",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0064",
+    "product_id": "P012",
+    "amount": 4814.44,
+    "date": "2024-04-19",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0065",
+    "product_id": "P020",
+    "amount": 625.77,
+    "date": "2023-06-21",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0066",
+    "product_id": "P035",
+    "amount": 4457.37,
+    "date": "2023-03-10",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0066",
+    "product_id": "P018",
+    "amount": 651.97,
+    "date": "2023-03-25",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0066",
+    "product_id": "P046",
+    "amount": 3709.43,
+    "date": "2024-02-09",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0067",
+    "product_id": "P040",
+    "amount": 4495.51,
+    "date": "2024-02-28",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0068",
+    "product_id": "P026",
+    "amount": 1005.43,
+    "date": "2023-03-13",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0069",
+    "product_id": "P001",
+    "amount": 1254.05,
+    "date": "2024-01-21",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0070",
+    "product_id": "P038",
+    "amount": 156.04,
+    "date": "2023-12-01",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0070",
+    "product_id": "P004",
+    "amount": 2380.44,
+    "date": "2023-03-23",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0071",
+    "product_id": "P008",
+    "amount": 4709.11,
+    "date": "2023-07-08",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0071",
+    "product_id": "P015",
+    "amount": 2443.09,
+    "date": "2023-08-21",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0071",
+    "product_id": "P027",
+    "amount": 4572.7,
+    "date": "2024-01-23",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0072",
+    "product_id": "P044",
+    "amount": 4378.36,
+    "date": "2023-02-11",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0073",
+    "product_id": "P046",
+    "amount": 4594.5,
+    "date": "2023-02-27",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0073",
+    "product_id": "P037",
+    "amount": 906.23,
+    "date": "2024-03-13",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0073",
+    "product_id": "P008",
+    "amount": 3612.9,
+    "date": "2023-09-08",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0074",
+    "product_id": "P030",
+    "amount": 2135.58,
+    "date": "2023-10-16",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0075",
+    "product_id": "P020",
+    "amount": 2040.15,
+    "date": "2024-02-23",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0075",
+    "product_id": "P038",
+    "amount": 2176.12,
+    "date": "2023-12-25",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0075",
+    "product_id": "P005",
+    "amount": 2413.15,
+    "date": "2023-05-27",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0076",
+    "product_id": "P050",
+    "amount": 3673.52,
+    "date": "2024-05-08",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0077",
+    "product_id": "P029",
+    "amount": 4543.16,
+    "date": "2023-07-12",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0077",
+    "product_id": "P042",
+    "amount": 681.3,
+    "date": "2023-10-03",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0078",
+    "product_id": "P015",
+    "amount": 3805.28,
+    "date": "2024-05-15",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0078",
+    "product_id": "P044",
+    "amount": 2178.23,
+    "date": "2023-07-14",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0078",
+    "product_id": "P030",
+    "amount": 1450.68,
+    "date": "2024-04-24",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0079",
+    "product_id": "P027",
+    "amount": 4687.57,
+    "date": "2024-03-31",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0079",
+    "product_id": "P014",
+    "amount": 3010.33,
+    "date": "2023-08-17",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0079",
+    "product_id": "P016",
+    "amount": 2071.1,
+    "date": "2023-04-30",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0080",
+    "product_id": "P009",
+    "amount": 1517.39,
+    "date": "2024-02-22",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0081",
+    "product_id": "P039",
+    "amount": 4110.07,
+    "date": "2023-05-02",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0081",
+    "product_id": "P043",
+    "amount": 2126.45,
+    "date": "2023-05-21",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0081",
+    "product_id": "P041",
+    "amount": 2823.67,
+    "date": "2023-01-25",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0082",
+    "product_id": "P021",
+    "amount": 2100.47,
+    "date": "2023-06-03",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0082",
+    "product_id": "P049",
+    "amount": 1280.74,
+    "date": "2023-04-26",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0082",
+    "product_id": "P030",
+    "amount": 2855.69,
+    "date": "2024-05-10",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0083",
+    "product_id": "P016",
+    "amount": 1718.29,
+    "date": "2023-02-10",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0083",
+    "product_id": "P006",
+    "amount": 4164.09,
+    "date": "2023-01-27",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0084",
+    "product_id": "P039",
+    "amount": 4380.74,
+    "date": "2023-04-07",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0084",
+    "product_id": "P031",
+    "amount": 4544.46,
+    "date": "2023-06-05",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0084",
+    "product_id": "P013",
+    "amount": 674.85,
+    "date": "2024-01-22",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0085",
+    "product_id": "P039",
+    "amount": 2043.5,
+    "date": "2023-05-03",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0085",
+    "product_id": "P050",
+    "amount": 2384.63,
+    "date": "2023-11-29",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0085",
+    "product_id": "P017",
+    "amount": 4425.78,
+    "date": "2023-08-27",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0086",
+    "product_id": "P014",
+    "amount": 2128.26,
+    "date": "2023-10-16",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0086",
+    "product_id": "P002",
+    "amount": 4680.32,
+    "date": "2023-10-24",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0087",
+    "product_id": "P013",
+    "amount": 1961.21,
+    "date": "2024-03-02",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0088",
+    "product_id": "P042",
+    "amount": 1754.06,
+    "date": "2024-01-26",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0088",
+    "product_id": "P030",
+    "amount": 3995.38,
+    "date": "2023-03-28",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0088",
+    "product_id": "P012",
+    "amount": 2756.47,
+    "date": "2023-11-25",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0089",
+    "product_id": "P043",
+    "amount": 131.28,
+    "date": "2023-03-12",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0090",
+    "product_id": "P010",
+    "amount": 35171.99,
+    "date": "2023-07-11",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0090",
+    "product_id": "P043",
+    "amount": 132.4,
+    "date": "2023-10-10",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0090",
+    "product_id": "P002",
+    "amount": 1446.23,
+    "date": "2024-05-15",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0091",
+    "product_id": "P045",
+    "amount": 4050.22,
+    "date": "2024-04-10",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0091",
+    "product_id": "P007",
+    "amount": 1280.75,
+    "date": "2023-11-14",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0091",
+    "product_id": "P023",
+    "amount": 2044.79,
+    "date": "2023-07-11",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0092",
+    "product_id": "P016",
+    "amount": 1206.7,
+    "date": "2023-12-17",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0092",
+    "product_id": "P006",
+    "amount": 1948.13,
+    "date": "2023-09-01",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0092",
+    "product_id": "P045",
+    "amount": 2549.31,
+    "date": "2023-08-11",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0093",
+    "product_id": "P003",
+    "amount": 4516.24,
+    "date": "2023-12-21",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0093",
+    "product_id": "P018",
+    "amount": 464.31,
+    "date": "2024-04-18",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0093",
+    "product_id": "P012",
+    "amount": 1640.97,
+    "date": "2024-05-07",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0094",
+    "product_id": "P026",
+    "amount": 1566.46,
+    "date": "2023-10-16",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0094",
+    "product_id": "P044",
+    "amount": 1725.48,
+    "date": "2024-01-22",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0094",
+    "product_id": "P033",
+    "amount": 1794.71,
+    "date": "2023-02-20",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0095",
+    "product_id": "P022",
+    "amount": 3107.94,
+    "date": "2023-11-01",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0096",
+    "product_id": "P041",
+    "amount": 4963.67,
+    "date": "2023-09-09",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0097",
+    "product_id": "P025",
+    "amount": 3430.5,
+    "date": "2023-12-05",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0097",
+    "product_id": "P050",
+    "amount": 4010.47,
+    "date": "2024-01-01",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0097",
+    "product_id": "P018",
+    "amount": 3587.22,
+    "date": "2023-11-21",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0098",
+    "product_id": "P024",
+    "amount": 125.46,
+    "date": "2023-06-07",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0098",
+    "product_id": "P049",
+    "amount": 749.28,
+    "date": "2023-04-06",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0099",
+    "product_id": "P036",
+    "amount": 606.14,
+    "date": "2023-02-15",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0099",
+    "product_id": "P039",
+    "amount": 1689.71,
+    "date": "2023-07-17",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0099",
+    "product_id": "P027",
+    "amount": 515.03,
+    "date": "2024-04-06",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0100",
+    "product_id": "P034",
+    "amount": 1965.59,
+    "date": "2023-03-13",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0100",
+    "product_id": "P018",
+    "amount": 410.01,
+    "date": "2023-08-11",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0100",
+    "product_id": "P020",
+    "amount": 476.91,
+    "date": "2023-05-09",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0101",
+    "product_id": "P040",
+    "amount": 624.16,
+    "date": "2023-06-05",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0101",
+    "product_id": "P022",
+    "amount": 1961.46,
+    "date": "2024-03-17",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0101",
+    "product_id": "P022",
+    "amount": 4135.32,
+    "date": "2023-11-30",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0102",
+    "product_id": "P021",
+    "amount": 3506.93,
+    "date": "2023-09-03",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0102",
+    "product_id": "P026",
+    "amount": 1528.1,
+    "date": "2023-12-22",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0103",
+    "product_id": "P025",
+    "amount": 3950.75,
+    "date": "2023-07-06",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0103",
+    "product_id": "P038",
+    "amount": 981.64,
+    "date": "2024-01-29",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0104",
+    "product_id": "P030",
+    "amount": 1127.28,
+    "date": "2024-02-13",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0104",
+    "product_id": "P027",
+    "amount": 781.98,
+    "date": "2023-06-05",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0104",
+    "product_id": "P043",
+    "amount": 2173.33,
+    "date": "2023-07-13",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0105",
+    "product_id": "P031",
+    "amount": 2718.4,
+    "date": "2024-04-17",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0105",
+    "product_id": "P024",
+    "amount": 4080.26,
+    "date": "2023-11-01",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0105",
+    "product_id": "P050",
+    "amount": 3357.0,
+    "date": "2023-03-27",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0106",
+    "product_id": "P042",
+    "amount": 2058.13,
+    "date": "2024-01-21",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0106",
+    "product_id": "P007",
+    "amount": 27762.15,
+    "date": "2023-09-19",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0106",
+    "product_id": "P029",
+    "amount": 2369.01,
+    "date": "2023-12-14",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0107",
+    "product_id": "P002",
+    "amount": 1547.62,
+    "date": "2024-04-16",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0107",
+    "product_id": "P047",
+    "amount": 1628.26,
+    "date": "2023-08-22",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0108",
+    "product_id": "P031",
+    "amount": 3637.77,
+    "date": "2023-08-20",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0108",
+    "product_id": "P020",
+    "amount": 3582.82,
+    "date": "2023-01-12",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0109",
+    "product_id": "P011",
+    "amount": 3728.4,
+    "date": "2023-09-22",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0109",
+    "product_id": "P022",
+    "amount": 4796.47,
+    "date": "2023-04-29",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0109",
+    "product_id": "P012",
+    "amount": 2217.46,
+    "date": "2023-01-15",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0110",
+    "product_id": "P038",
+    "amount": 121.81,
+    "date": "2023-04-20",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0110",
+    "product_id": "P049",
+    "amount": 4000.44,
+    "date": "2023-10-23",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0111",
+    "product_id": "P021",
+    "amount": 658.38,
+    "date": "2023-12-10",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0111",
+    "product_id": "P039",
+    "amount": 2023.47,
+    "date": "2023-02-28",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0112",
+    "product_id": "P040",
+    "amount": 3400.59,
+    "date": "2024-02-14",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0112",
+    "product_id": "P044",
+    "amount": 677.52,
+    "date": "2023-06-06",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0113",
+    "product_id": "P045",
+    "amount": 2003.47,
+    "date": "2023-11-02",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0113",
+    "product_id": "P028",
+    "amount": 3213.96,
+    "date": "2023-12-22",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0114",
+    "product_id": "P019",
+    "amount": 1641.44,
+    "date": "2023-08-19",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0114",
+    "product_id": "P023",
+    "amount": 2474.58,
+    "date": "2023-04-10",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0115",
+    "product_id": "P044",
+    "amount": 3579.7,
+    "date": "2023-08-16",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0115",
+    "product_id": "P006",
+    "amount": 3999.82,
+    "date": "2023-04-23",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0116",
+    "product_id": "P015",
+    "amount": 924.22,
+    "date": "2023-08-23",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0116",
+    "product_id": "P036",
+    "amount": 2906.3,
+    "date": "2023-05-18",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0117",
+    "product_id": "P049",
+    "amount": 3623.0,
+    "date": "2023-10-07",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0117",
+    "product_id": "P007",
+    "amount": 3302.99,
+    "date": "2023-05-07",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0117",
+    "product_id": "P029",
+    "amount": 4324.78,
+    "date": "2023-02-14",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0118",
+    "product_id": "P014",
+    "amount": 2980.83,
+    "date": "2023-06-29",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0119",
+    "product_id": "P040",
+    "amount": 1112.44,
+    "date": "2023-04-16",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0120",
+    "product_id": "P018",
+    "amount": 925.05,
+    "date": "2023-12-27",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0120",
+    "product_id": "P037",
+    "amount": 4304.28,
+    "date": "2024-04-05",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0120",
+    "product_id": "P049",
+    "amount": 4601.97,
+    "date": "2023-05-22",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0121",
+    "product_id": "P010",
+    "amount": 4159.56,
+    "date": "2024-01-25",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0122",
+    "product_id": "P037",
+    "amount": 3176.28,
+    "date": "2023-07-12",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0123",
+    "product_id": "P050",
+    "amount": 2626.51,
+    "date": "2023-05-23",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0123",
+    "product_id": "P032",
+    "amount": 112.12,
+    "date": "2024-02-01",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0123",
+    "product_id": "P041",
+    "amount": 1855.29,
+    "date": "2023-02-02",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0124",
+    "product_id": "P028",
+    "amount": 2524.1,
+    "date": "2023-06-15",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0125",
+    "product_id": "P037",
+    "amount": 4276.87,
+    "date": "2024-02-08",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0125",
+    "product_id": "P003",
+    "amount": 3941.06,
+    "date": "2023-08-24",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0125",
+    "product_id": "P011",
+    "amount": 103.31,
+    "date": "2024-05-05",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0126",
+    "product_id": "P009",
+    "amount": 1579.14,
+    "date": "2024-03-23",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0126",
+    "product_id": "P042",
+    "amount": 503.86,
+    "date": "2023-12-07",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0126",
+    "product_id": "P026",
+    "amount": 3657.34,
+    "date": "2024-01-22",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0127",
+    "product_id": "P006",
+    "amount": 105.32,
+    "date": "2023-09-02",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0127",
+    "product_id": "P038",
+    "amount": 3431.92,
+    "date": "2023-01-05",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0127",
+    "product_id": "P008",
+    "amount": 2169.34,
+    "date": "2023-03-09",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0128",
+    "product_id": "P025",
+    "amount": 4049.19,
+    "date": "2023-02-22",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0129",
+    "product_id": "P009",
+    "amount": 4085.5,
+    "date": "2024-03-23",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0129",
+    "product_id": "P005",
+    "amount": 141.53,
+    "date": "2023-11-29",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0130",
+    "product_id": "P047",
+    "amount": 3766.52,
+    "date": "2024-04-15",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0130",
+    "product_id": "P014",
+    "amount": 592.28,
+    "date": "2024-01-21",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0131",
+    "product_id": "P028",
+    "amount": 785.17,
+    "date": "2023-05-22",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0131",
+    "product_id": "P036",
+    "amount": 3633.78,
+    "date": "2023-05-26",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0132",
+    "product_id": "P034",
+    "amount": 1024.37,
+    "date": "2023-07-20",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0133",
+    "product_id": "P032",
+    "amount": 1281.3,
+    "date": "2023-11-23",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0134",
+    "product_id": "P001",
+    "amount": 4676.23,
+    "date": "2023-03-09",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0134",
+    "product_id": "P024",
+    "amount": 946.57,
+    "date": "2023-08-30",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0134",
+    "product_id": "P038",
+    "amount": 1384.71,
+    "date": "2023-01-21",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0135",
+    "product_id": "P019",
+    "amount": 2555.14,
+    "date": "2023-08-01",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0135",
+    "product_id": "P006",
+    "amount": 2734.51,
+    "date": "2023-03-20",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0135",
+    "product_id": "P020",
+    "amount": 4612.53,
+    "date": "2024-05-13",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0136",
+    "product_id": "P038",
+    "amount": 4189.18,
+    "date": "2023-12-15",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0136",
+    "product_id": "P045",
+    "amount": 4771.8,
+    "date": "2023-05-03",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0137",
+    "product_id": "P028",
+    "amount": 3100.25,
+    "date": "2023-01-29",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0138",
+    "product_id": "P001",
+    "amount": 3537.35,
+    "date": "2023-03-25",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0139",
+    "product_id": "P034",
+    "amount": 3631.75,
+    "date": "2023-03-27",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0139",
+    "product_id": "P048",
+    "amount": 1416.95,
+    "date": "2024-03-29",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0139",
+    "product_id": "P022",
+    "amount": 1432.7,
+    "date": "2023-02-02",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0140",
+    "product_id": "P030",
+    "amount": 371.65,
+    "date": "2024-03-15",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0140",
+    "product_id": "P024",
+    "amount": 3889.31,
+    "date": "2024-04-02",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0141",
+    "product_id": "P048",
+    "amount": 315.79,
+    "date": "2024-03-17",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0142",
+    "product_id": "P031",
+    "amount": 4609.11,
+    "date": "2023-04-02",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0143",
+    "product_id": "P021",
+    "amount": 4587.69,
+    "date": "2023-06-13",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0144",
+    "product_id": "P024",
+    "amount": 3399.3,
+    "date": "2023-01-27",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0144",
+    "product_id": "P034",
+    "amount": 4774.99,
+    "date": "2023-02-05",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0144",
+    "product_id": "P050",
+    "amount": 1703.77,
+    "date": "2023-10-11",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0145",
+    "product_id": "P013",
+    "amount": 3944.09,
+    "date": "2024-01-14",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0145",
+    "product_id": "P030",
+    "amount": 4862.1,
+    "date": "2024-01-31",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0146",
+    "product_id": "P001",
+    "amount": 217.16,
+    "date": "2023-10-05",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0147",
+    "product_id": "P001",
+    "amount": 1943.75,
+    "date": "2024-01-13",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0147",
+    "product_id": "P014",
+    "amount": 1267.02,
+    "date": "2023-09-09",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0148",
+    "product_id": "P018",
+    "amount": 4614.24,
+    "date": "2024-04-04",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0148",
+    "product_id": "P045",
+    "amount": 2346.44,
+    "date": "2024-01-18",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0148",
+    "product_id": "P033",
+    "amount": 4117.82,
+    "date": "2023-02-08",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0149",
+    "product_id": "P043",
+    "amount": 1260.18,
+    "date": "2023-05-14",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0149",
+    "product_id": "P045",
+    "amount": 1698.63,
+    "date": "2023-08-20",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0150",
+    "product_id": "P013",
+    "amount": 3873.72,
+    "date": "2023-02-25",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0151",
+    "product_id": "P029",
+    "amount": 2091.91,
+    "date": "2023-10-02",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0152",
+    "product_id": "P020",
+    "amount": 4277.16,
+    "date": "2023-02-16",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0152",
+    "product_id": "P046",
+    "amount": 297.62,
+    "date": "2024-03-03",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0153",
+    "product_id": "P046",
+    "amount": 1843.14,
+    "date": "2023-09-20",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0154",
+    "product_id": "P012",
+    "amount": 2081.52,
+    "date": "2023-08-20",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0154",
+    "product_id": "P007",
+    "amount": 4039.09,
+    "date": "2023-03-13",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0155",
+    "product_id": "P050",
+    "amount": 740.5,
+    "date": "2024-02-26",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0156",
+    "product_id": "P041",
+    "amount": 511.79,
+    "date": "2023-10-28",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0156",
+    "product_id": "P002",
+    "amount": 1068.98,
+    "date": "2023-11-27",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0156",
+    "product_id": "P006",
+    "amount": 4163.85,
+    "date": "2023-06-19",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0157",
+    "product_id": "P004",
+    "amount": 2912.03,
+    "date": "2024-02-25",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0157",
+    "product_id": "P002",
+    "amount": 2190.65,
+    "date": "2023-07-01",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0158",
+    "product_id": "P018",
+    "amount": 828.29,
+    "date": "2023-11-11",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0158",
+    "product_id": "P042",
+    "amount": 2118.76,
+    "date": "2023-10-09",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0159",
+    "product_id": "P018",
+    "amount": 2154.25,
+    "date": "2023-11-26",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0160",
+    "product_id": "P035",
+    "amount": 4948.08,
+    "date": "2024-02-05",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0160",
+    "product_id": "P035",
+    "amount": 1785.77,
+    "date": "2023-10-17",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0160",
+    "product_id": "P025",
+    "amount": 227.71,
+    "date": "2023-11-02",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0161",
+    "product_id": "P004",
+    "amount": 2411.25,
+    "date": "2023-07-03",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0161",
+    "product_id": "P011",
+    "amount": 3318.64,
+    "date": "2023-05-17",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0162",
+    "product_id": "P037",
+    "amount": 4007.21,
+    "date": "2023-07-01",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0163",
+    "product_id": "P038",
+    "amount": 3716.71,
+    "date": "2023-07-03",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0164",
+    "product_id": "P045",
+    "amount": 2881.49,
+    "date": "2023-03-14",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0164",
+    "product_id": "P032",
+    "amount": 960.23,
+    "date": "2023-01-20",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0164",
+    "product_id": "P015",
+    "amount": 197.65,
+    "date": "2023-09-02",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0165",
+    "product_id": "P013",
+    "amount": 1769.72,
+    "date": "2023-04-01",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0165",
+    "product_id": "P002",
+    "amount": 3553.01,
+    "date": "2023-03-14",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0165",
+    "product_id": "P005",
+    "amount": 4715.42,
+    "date": "2023-07-22",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0166",
+    "product_id": "P020",
+    "amount": 4881.72,
+    "date": "2024-01-10",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0166",
+    "product_id": "P042",
+    "amount": 3565.2,
+    "date": "2023-10-15",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0167",
+    "product_id": "P043",
+    "amount": 959.22,
+    "date": "2023-06-07",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0168",
+    "product_id": "P047",
+    "amount": 41060.25,
+    "date": "2023-10-21",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0169",
+    "product_id": "P039",
+    "amount": 4063.15,
+    "date": "2023-11-10",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0170",
+    "product_id": "P010",
+    "amount": 481.25,
+    "date": "2023-06-27",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0170",
+    "product_id": "P041",
+    "amount": 534.76,
+    "date": "2023-12-29",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0171",
+    "product_id": "P017",
+    "amount": 3496.56,
+    "date": "2023-06-29",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0172",
+    "product_id": "P001",
+    "amount": 2247.28,
+    "date": "2023-08-03",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0172",
+    "product_id": "P032",
+    "amount": 1821.03,
+    "date": "2023-07-12",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0172",
+    "product_id": "P037",
+    "amount": 3467.09,
+    "date": "2023-03-25",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0173",
+    "product_id": "P019",
+    "amount": 1379.53,
+    "date": "2023-02-23",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0174",
+    "product_id": "P025",
+    "amount": 467.51,
+    "date": "2024-04-27",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0175",
+    "product_id": "P040",
+    "amount": 3552.07,
+    "date": "2023-08-09",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0175",
+    "product_id": "P011",
+    "amount": 1722.36,
+    "date": "2024-05-13",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0175",
+    "product_id": "P045",
+    "amount": 4635.31,
+    "date": "2023-10-04",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0176",
+    "product_id": "P016",
+    "amount": 2025.22,
+    "date": "2023-10-09",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0176",
+    "product_id": "P004",
+    "amount": 2195.27,
+    "date": "2023-05-31",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0177",
+    "product_id": "P007",
+    "amount": 937.08,
+    "date": "2023-05-30",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0178",
+    "product_id": "P020",
+    "amount": 2407.63,
+    "date": "2024-04-03",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0179",
+    "product_id": "P035",
+    "amount": 1918.0,
+    "date": "2023-07-15",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0179",
+    "product_id": "P029",
+    "amount": 2254.73,
+    "date": "2023-05-15",
+    "payment_mode": "Debit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0179",
+    "product_id": "P037",
+    "amount": 3785.95,
+    "date": "2023-12-08",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0180",
+    "product_id": "P023",
+    "amount": 2128.53,
+    "date": "2024-01-23",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0180",
+    "product_id": "P036",
+    "amount": 1996.82,
+    "date": "2023-09-25",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0180",
+    "product_id": "P037",
+    "amount": 2433.69,
+    "date": "2023-02-10",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0181",
+    "product_id": "P037",
+    "amount": 4022.21,
+    "date": "2023-12-13",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0181",
+    "product_id": "P008",
+    "amount": 2300.29,
+    "date": "2024-04-30",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0181",
+    "product_id": "P013",
+    "amount": 2174.54,
+    "date": "2023-12-16",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0182",
+    "product_id": "P010",
+    "amount": 1363.64,
+    "date": "2024-04-11",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0182",
+    "product_id": "P025",
+    "amount": 2805.07,
+    "date": "2024-03-14",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0182",
+    "product_id": "P001",
+    "amount": 3152.98,
+    "date": "2023-09-25",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0183",
+    "product_id": "P010",
+    "amount": 2980.88,
+    "date": "2024-01-24",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0183",
+    "product_id": "P037",
+    "amount": 3950.15,
+    "date": "2024-03-20",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0184",
+    "product_id": "P017",
+    "amount": 2479.37,
+    "date": "2023-11-08",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0184",
+    "product_id": "P012",
+    "amount": 804.88,
+    "date": "2023-11-08",
+    "payment_mode": "Net Banking",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0185",
+    "product_id": "P022",
+    "amount": 341.53,
+    "date": "2023-09-01",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0185",
+    "product_id": "P002",
+    "amount": 3988.9,
+    "date": "2023-06-09",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0186",
+    "product_id": "P044",
+    "amount": 4357.61,
+    "date": "2023-03-10",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0186",
+    "product_id": "P050",
+    "amount": 1420.16,
+    "date": "2023-08-02",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0186",
+    "product_id": "P013",
+    "amount": 4575.82,
+    "date": "2023-07-28",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0187",
+    "product_id": "P033",
+    "amount": 421.52,
+    "date": "2023-12-30",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0188",
+    "product_id": "P050",
+    "amount": 4408.73,
+    "date": "2023-01-15",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0189",
+    "product_id": "P004",
+    "amount": 2336.6,
+    "date": "2024-04-15",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0190",
+    "product_id": "P024",
+    "amount": 2575.12,
+    "date": "2023-11-22",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0190",
+    "product_id": "P016",
+    "amount": 3010.81,
+    "date": "2023-04-01",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0191",
+    "product_id": "P011",
+    "amount": 1367.43,
+    "date": "2024-03-01",
+    "payment_mode": "Credit Card",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0191",
+    "product_id": "P002",
+    "amount": 898.25,
+    "date": "2023-10-20",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0192",
+    "product_id": "P015",
+    "amount": 1418.51,
+    "date": "2023-07-29",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0192",
+    "product_id": "P050",
+    "amount": 3442.78,
+    "date": "2023-08-31",
+    "payment_mode": "Debit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0192",
+    "product_id": "P039",
+    "amount": 1196.47,
+    "date": "2023-11-08",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0193",
+    "product_id": "P025",
+    "amount": 2349.09,
+    "date": "2023-04-22",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0193",
+    "product_id": "P044",
+    "amount": 3155.67,
+    "date": "2023-10-27",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0194",
+    "product_id": "P043",
+    "amount": 4212.95,
+    "date": "2023-10-15",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0194",
+    "product_id": "P020",
+    "amount": 2460.52,
+    "date": "2023-06-22",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0194",
+    "product_id": "P018",
+    "amount": 3584.36,
+    "date": "2024-04-01",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0195",
+    "product_id": "P034",
+    "amount": 4508.47,
+    "date": "2024-02-17",
+    "payment_mode": "Cash",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0196",
+    "product_id": "P021",
+    "amount": 3634.29,
+    "date": "2023-12-02",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0196",
+    "product_id": "P017",
+    "amount": 2082.53,
+    "date": "2024-01-13",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0196",
+    "product_id": "P022",
+    "amount": 1189.58,
+    "date": "2023-10-01",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0197",
+    "product_id": "P020",
+    "amount": 4219.13,
+    "date": "2024-03-24",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0197",
+    "product_id": "P019",
+    "amount": 726.93,
+    "date": "2023-05-13",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0197",
+    "product_id": "P044",
+    "amount": 3306.73,
+    "date": "2023-04-24",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0198",
+    "product_id": "P020",
+    "amount": 4445.53,
+    "date": "2023-07-10",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0198",
+    "product_id": "P030",
+    "amount": 2405.63,
+    "date": "2024-03-19",
+    "payment_mode": "Cash",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0198",
+    "product_id": "P031",
+    "amount": 2552.34,
+    "date": "2024-03-20",
+    "payment_mode": "Net Banking",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0199",
+    "product_id": "P004",
+    "amount": 838.81,
+    "date": "2023-04-13",
+    "payment_mode": "UPI",
+    "purchased": 1
+  },
+  {
+    "customer_id": "C0199",
+    "product_id": "P037",
+    "amount": 4934.58,
+    "date": "2023-03-15",
+    "payment_mode": "UPI",
+    "purchased": 0
+  },
+  {
+    "customer_id": "C0200",
+    "product_id": "P032",
+    "amount": 4934.54,
+    "date": "2023-06-10",
+    "payment_mode": "Credit Card",
+    "purchased": 0
+  }
+]
